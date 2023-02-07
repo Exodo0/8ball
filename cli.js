@@ -1,9 +1,6 @@
 #!/usr/bin/env node
-
 const stdin = process.stdin;
-
 stdin.resume() & stdin.setEncoding("utf8");
-
 const arg = process.argv[2];
 const eightball = require("./")();
 const ask = () => output("Pregunta algo...");

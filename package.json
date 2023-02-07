@@ -1,7 +1,7 @@
 {
-  "name": "8ballpackage",
-  "version": "1.0.0",
-  "description": "Pregutna y responde con la bola 8",
+  "name": "8ballspanish",
+  "version": "1.5.0",
+  "description": "Pregunta Cualquier cosa y te respondera con una respuesta aleatoria",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
