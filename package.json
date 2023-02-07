@@ -1,0 +1,27 @@
+{
+  "name": "8ballpackage",
+  "version": "1.0.0",
+  "description": "Pregutna y responde con la bola 8",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "8ball",
+    "ball"
+  ],
+  "bin": {
+    "8ball": "cli.js",
+    "🎱": "cli.js"
+  },
+  "author": "Exodo0",
+  "bugs": {
+    "url": "https://github.com/Exodo0/8ball/issues"
+  },
+  "homepage": "https://github.com/Exodo0/8ball",
+  "license": "MIT",
+  "engines": {
+    "node": ">=4"
+  },
+  "tonicExampleFilename": "example.js"
+}
