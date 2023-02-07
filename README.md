@@ -1,16 +1,17 @@
 ## La Bola Magica
 
-La Magia de 8 Ball es un juguete que se utiliza para adivinar o buscar consejos..
+Usa la bola magica para obtener respuestas a tus preguntas
 
 ### instalacion:
+
 ```
-$ npm i 8BallPackage
+$ npm i 8ballspanish
 ```
 
 ### uso:
 
-``` Discord js
-const eightball = require('8BallPackage')
+```Discord js
+const eightball = require('8ballspanish')
 const respuesta = eightball();
 
     const embed = new EmbedBuilder()
@@ -19,6 +20,7 @@ const respuesta = eightball();
       interaction.reply({ embeds: [embed] });
 
 ```
+
 ### requirements:
 
 node `>=4`
