@@ -1,27 +1,32 @@
 {
-  "name": "8ballspanish",
-  "version": "1.5.0",
-  "description": "Pregunta Cualquier cosa y te respondera con una respuesta aleatoria",
+  "name": "8ballsp",
+  "version": "1.1.2",
+  "description": "A Spanish version of the 8-ball game",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"No tests available\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Exodo0/8ball.git"
   },
   "keywords": [
-    "8ball",
-    "ball"
+    "8-ball",
+    "game",
+    "response",
+    "spanish"
   ],
-  "bin": {
-    "8ball": "cli.js",
-    "🎱": "cli.js"
+  "author": "Egologic",
+  "license": "MIT",
+  "devDependencies": {},
+  "engines": {
+    "node": ">=8.0.0"
   },
-  "author": "Exodo0",
+  "bin": {
+    "8ball": "cli.js"
+  },
   "bugs": {
     "url": "https://github.com/Exodo0/8ball/issues"
   },
-  "homepage": "https://github.com/Exodo0/8ball",
-  "license": "MIT",
-  "engines": {
-    "node": ">=4"
-  },
-  "tonicExampleFilename": "example.js"
+  "homepage": "https://github.com/Exodo0/8ball#readme"
 }

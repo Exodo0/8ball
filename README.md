@@ -23,4 +23,4 @@ const respuesta = eightball();
 
 ### requirements:
 
-node `>=4`
+- Node.js v12.0.0 or latest
