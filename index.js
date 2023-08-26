@@ -1,4 +1,7 @@
 const Respuestas = [
+  "Muy Homosexual... Sin ofender",
+  "Muy Heterosexual... Sin ofender",
+  "Gay... Sin ofender",
   "Sí.",
   "No.",
   "Tal vez.",
