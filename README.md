@@ -5,7 +5,7 @@ Usa la bola magica para obtener respuestas a tus preguntas
 ### instalacion:
 
 ```
-$ npm i 8ballspanish
+$ npm i 8ballsp
 ```
 
 ### uso:
